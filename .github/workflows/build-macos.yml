@@ -30,13 +30,11 @@ jobs:
       - name: Build Universal DMG + ZIP
         run: npm run build:mac:universal -- --publish never
         
-      - name: Upload DMG and ZIP
+      - name: Upload DMG only
         uses: actions/upload-artifact@v4
         with:
-          name: Ezi-Client-macOS-Universal
-          path: |
-            dist/*.dmg
-            dist/*.zip
+         name: Ezi-Client-macOS-Universal-DMG
+         path: dist/*.dmg
 
       - name: Create GitHub Release
         if: startsWith(github.ref, 'refs/tags/')
