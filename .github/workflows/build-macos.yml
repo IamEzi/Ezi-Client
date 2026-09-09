@@ -28,8 +28,8 @@ jobs:
         run: npm install
 
       - name: Build Universal DMG + ZIP
-        run: npm run build:mac:universal
-
+        run: npm run build:mac:universal -- --publish never
+        
       - name: Upload DMG and ZIP
         uses: actions/upload-artifact@v4
         with:
