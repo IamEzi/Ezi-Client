@@ -138,6 +138,8 @@ Ezi Client also provides:
 4. Launch Kirka through the client.
 5. Open the client menu with `Right Shift`.
 
+FOR MACOS Check README-MAC.md
+
 For userscripts, select your userscript folder from the **Userscripts** tab.
 
 ---
