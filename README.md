@@ -1,6 +1,6 @@
 # Ezi Client 1.0.0
 
-A custom desktop client for **Kirka**, built with Electron and focused on performance, customization, and a clean user experience.
+A custom desktop client for **Kirka.io**, built with Electron and focused on performance, customization, and a clean user experience.
 
 **Author / Owner:** IamEzi  
 **Version:** 1.0.0  
@@ -21,7 +21,7 @@ Customize the appearance of player skins with separate color controls:
 
 ### ⚡ Performance
 
-Ezi Client includes performance-focused options designed to provide a smoother Kirka experience:
+Ezi Client includes performance-focused options designed to provide a smoother Kirka.io experience:
 
 - Performance Mode
 - GPU acceleration optimizations
@@ -95,7 +95,7 @@ Userscripts can be:
 Ezi Client also provides:
 
 - Fullscreen
-- Reload Kirka
+- Reload Kirka.io
 - Developer Tools
 - Keyboard shortcuts
 - Discord community button
@@ -107,7 +107,7 @@ Ezi Client also provides:
 | Shortcut | Action |
 |---|---|
 | `Right Shift` | Open / close Ezi Client menu |
-| `F5` | Reload Kirka |
+| `F5` | Reload Kirka.io |
 | `F12` | Open Developer Tools |
 | `Alt + P` | Toggle FPS Monitor |
 | `Alt + O` | Toggle Profiler |
@@ -135,7 +135,7 @@ Ezi Client also provides:
 1. Download the latest Ezi Client release.
 2. Extract the downloaded archive if required.
 3. Run **Ezi Client**.
-4. Launch Kirka through the client.
+4. Launch Kirka.io through the client.
 5. Open the client menu with `Right Shift`.
 
 FOR MACOS Check README-MAC.md
@@ -173,9 +173,9 @@ See the included `LICENSE` file for the full terms.
 
 ## Disclaimer
 
-Ezi Client is an independent third-party client and is **not an official Kirka product**.
+Ezi Client is an independent third-party client and is **not an official Kirka.io product**.
 
-Kirka and its related trademarks belong to their respective owners.
+Kirka.io and its related trademarks belong to their respective owners.
 
 ---
 
